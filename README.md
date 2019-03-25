@@ -38,3 +38,12 @@ equidistantly spaced values between 0 and 1.
 Task 3:
 
 Set up a list ```yplot``` which contains the values ```arctan(x)``` for all the ```x``` in ```xplot```.
+
+Task 4:
+
+This is a 3rd-order Adams-Bashforth method which is used for solving
+y′(t) =f(y).
+Here we apply it to the function
+f(y) =ay. 
+When the program is done, the vector u is an approximation to the vector {y(nh)}1000n=0. If you have time over, plot both the approximation 
+and the exact solution in the same figure and compare the result.
