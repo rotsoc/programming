@@ -34,3 +34,9 @@ Task 2:
 
 Use the command ```range``` and a list comprehension to generate a list with 100
 equidistantly spaced values between 0 and 1.
+
+Task 3:
+
+Set up a list ```yplot``` which contains the values ```arctan(x)``` for all the ```x``` in ```xplot```.
+
+[picture][/arctan.png]
