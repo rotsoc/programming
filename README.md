@@ -1,4 +1,4 @@
-### Python Programming Exercises
+# Python Programming Exercises
 
 ## Exercise 1
 
@@ -50,7 +50,7 @@ and the exact solution in the same figure and compare the result.
 
 ## Exercise 3
 
-# Kata
+### Kata
 
 The challenge is fairly simple: given a file containing one word per line, print out all the combinations of words that are anagrams; 
 each line in the output contains all the words from the input that are anagrams of each other.
