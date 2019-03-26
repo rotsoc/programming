@@ -47,3 +47,10 @@ Here we apply it to the function
 f(y) =ay. 
 When the program is done, the vector u is an approximation to the vector {y(nh)}1000n=0. If you have time over, plot both the approximation 
 and the exact solution in the same figure and compare the result.
+
+## Exercise 3
+
+# Kata
+
+The challenge is fairly simple: given a file containing one word per line, print out all the combinations of words that are anagrams; 
+each line in the output contains all the words from the input that are anagrams of each other.
