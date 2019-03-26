@@ -1,3 +1,15 @@
+# Algorithms
+
+## Following the book "Algorithms"
+
+### Algorithms
+
+Multiplication
+
+Division
+
+Modular Exponentiation
+
 # Python Programming Exercises
 
 ## Exercise 1
