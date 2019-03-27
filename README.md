@@ -12,6 +12,8 @@ Modular Exponentiation
 
 Greatest Common Divisor
 
+Primality Testing
+
 # Python Programming Exercises
 
 ## Exercise 1
