@@ -10,6 +10,8 @@ Division
 
 Modular Exponentiation
 
+Greatest Common Divisor
+
 # Python Programming Exercises
 
 ## Exercise 1
