@@ -14,6 +14,8 @@ Greatest Common Divisor
 
 Primality Testing
 
+Mergesort
+
 # Python Programming Exercises
 
 ## Exercise 1
@@ -70,3 +72,20 @@ and the exact solution in the same figure and compare the result.
 
 The challenge is fairly simple: given a file containing one word per line, print out all the combinations of words that are anagrams; 
 each line in the output contains all the words from the input that are anagrams of each other.
+
+## Exercise 4
+
+### Kata
+
+Part One: Weather Data
+
+In weather.dat you’ll find daily weather data for Morristown, NJ for June 2002. 
+Download this text file, then write a program to output the day number (column one) 
+with the smallest temperature spread (the maximum temperature is the second column, the minimum the third column).
+
+Part Two: Soccer League Table
+
+The file football.dat contains the results from the English Premier League for 2001/2. 
+The columns labeled ‘F’ and ‘A’ contain the total number of goals scored for and against each team in that season 
+(so Arsenal scored 79 goals against opponents, and had 36 goals scored against them). 
+Write a program to print the name of the team with the smallest difference in ‘for’ and ‘against’ goals.
